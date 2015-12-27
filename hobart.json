@@ -122,7 +122,8 @@
                 {"url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1082733_12887279.mp3", "text": "Punishment Box: c.1840s"},
                 {"url": "https://youtu.be/4Ir70PwY1rU", "text": "Picturesque Tasmanian 1933"},
                 {"url": "https://youtu.be/b69NkdZHM-U", "text": "Life in Hobart 1966"},
-                {"url": "https://www.youtube.com/watch?v=gxzZ5sDdA3c&feature=youtu.be", "text": "Viewpoint on Hobart (1975)"}
+                {"url": "https://www.youtube.com/watch?v=gxzZ5sDdA3c&feature=youtu.be", "text": "Viewpoint on Hobart (1975)"},
+                {"url": "http://www.abc.net.au/local/stories/2011/03/15/3164475.htm", "text": "Indigenous Tasmanian history"}
             ]
         },
         {
@@ -142,6 +143,46 @@
             "address": "Davies Ave, Queens Domain TAS 7000",
             "description": "TCA Ground",
             "audiofiles": [{"url": "https://youtu.be/IVcwKj_a-IY", "text": "1911 Tasmanian State Premiership football match"}]
+        },
+        {
+            "name": "Port Arthur",
+            "address": "Port Arthur TAS 7182",
+            "description": "Port Arthur",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1083013_12893066.mp3", "text": "Convict-made shoes: 1830s"}]
+        },
+        {
+            "name": "Mawson Place",
+            "address": "Mawson Place, Hobart TAS 7000",
+            "description": "Mawson Place",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/news/audio/twt/201112/20111202-twt10-mawson-live.mp3", "text": "Flotilla marks centenary of Mawson Antarctica expedition (Dec 2011)"},
+            {"url": "http://www.mawsons-huts-replica.org.au/gallery/construction/", "text": "Mawsons Hut replica photo gallery"}]
+        },
+        {
+            "name": "Bridgewater",
+            "address": "Bridgewater TAS 7030",
+            "description": "Bridgewater",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201102/r713267_5599126.mp3", "text": "Surviving Tasmania's worst bushfires with the help peaches and priests"}]
+        },
+        {
+            "name": "Strahan",
+            "address": "Strahan TAS 7468",
+            "description": "Strahan",
+            "audiofiles": [
+                {"url": "http://www.abc.net.au/news/2008-07-01/elizabeth-byrne-reports-on-the-implication-so-fthe/2490246", "text": "The implication's of the High Court's 1983 decision on the Franklin Dam"},
+                {"url": "http://www.abc.net.au/news/2008-07-01/strahan-a-different-town-25-years-from-dam-decision/2490394", "text": "Strahan a different town, 25 years from dam decision"},
+                {"url": "http://www.abc.net.au/reslib/200807/r267701_1121419.mp3", "text": "Ros Langford and Michael Mansell at the 25th anniversary of the saving of the Franklin River"},
+                {"url": "http://www.abc.net.au/reslib/200807/r267717_1121505.mp3", "text": "Richard Flanagan speaking at the 25th anniversary dinner for the saving of the Franklin River"},
+                {"url": "http://www.abc.net.au/reslib/200807/r267718_1121506.mp3", "text": "Norm Sanders speaking at the 25th anniversary dinner for the saving of the Franklin River"},
+                {"url": "http://www.abc.net.au/reslib/200807/r267720_1121507.mp3", "text": "Doug Low speaking at the 25th anniversary dinner for the saving of the Franklin River"},
+                {"url": "http://www.abc.net.au/reslib/200807/r267721_1121514.mp3", "text": "Dick Smith speaking at the 25th anniversary dinner for the saving of the Franklin River"},
+                {"url": "http://www.abc.net.au/reslib/200807/r267725_1121525.mp3", "text": "Bob Hawke's speech at the 25th anniversary dinner for the saving of the Franklin River"}
+            ]
+        },
+        {
+            "name": "Anglesea Barracks, Davey St, Hobart TAS 7000",
+            "address": "Anglesea Barracks, Davey St, Hobart TAS 7000",
+            "description": "Anglesea Barracks, Davey St, Hobart TAS 7000",
+            "audiofiles": [{"url": "https://www.youtube.com/watch?v=jy_mpWchDDQ", "text": "Anglesea Barracks 200 Years"}]
         }
     ]
 
