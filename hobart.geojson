@@ -14,11 +14,11 @@
                 "audiofiles": [
                     {
                         "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1087407_12990943.mp3",
-                        "text": "Shaping Tasmania (ABC)"
+                        "text": "The Commissariat Provision"
                     }
                 ],
                 "description": "The Commissariat Provision (Issuing Store) built between 1808 and 1810, is the oldest building in the museum's precinct and the earliest surviving public building in Tasmania.",
-                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1087407_12990943.mp3\">Shaping Tasmania (ABC)</a></li></ul>",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1087407_12990943.mp3\">The Commissariat Provision</a></li></ul>",
                 "name": "The Commissariat Provision",
                 "address": "40 Macquarie St, Hobart TAS 7000"
             }
@@ -41,7 +41,7 @@
                 ],
                 "description": "One new Tasmanian resident, Kim Dodson, has been so taken by the history of hops in the Upper Derwent Valley that she's started leading tours for visitors.",
                 "audiofile_list_html": "<ul><li><a href=\"https://soundcloud.com/936-abc-hobart/come-on-a-hops-history-tour-of-tasmania\">Come on a hops history tour of Tasmania</a></li></ul>",
-                "name": "Bushy Park Hops",
+                "name": "Bushy Park Hops Farms",
                 "address": "471 Gordon River Road, Bushy Park, TAS"
             }
         },
@@ -245,7 +245,7 @@
                 ],
                 "description": "Swansea, TAS",
                 "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/northtas/201311/r1209285_15733289.mp3\">Colonial Quaker records provide a new insight to Tasmania's Aboriginal people</a></li></ul>",
-                "name": "Swansea TAS",
+                "name": "Swansea",
                 "address": "Swansea, TAS"
             }
         },
@@ -267,7 +267,7 @@
                 ],
                 "description": "Richmond, TAS",
                 "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201311/r1205382_15644263.mp3\">The history of Richmond's Oak Lodge</a></li></ul>",
-                "name": "Richmond, TAS",
+                "name": "Richmond",
                 "address": "Richmond, TAS"
             }
         },
@@ -289,7 +289,7 @@
                 ],
                 "description": "New Town, TAS",
                 "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201311/r1197092_15457091.mp3\">Come 'behind the clock' to the orphanage in New Town</a></li></ul>",
-                "name": "New Town, TAS",
+                "name": "New Town",
                 "address": "New Town, TAS 7008"
             }
         },
@@ -361,6 +361,170 @@
                 "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201308/r1158685_14591475.mp3\">Damaged historic Harrington St property reveals its secrets</a></li></ul>",
                 "name": "121 Harrington Street, Hobart",
                 "address": "121 Harrington Street, Hobart TAS 7000"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.3329326,
+                    -42.8819088
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1083019_12893172.mp3",
+                        "text": "The Risby clock: c. 1860"
+                    }
+                ],
+                "description": "Tasmanian Museum and Art Gallery",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1083019_12893172.mp3\">The Risby clock: c. 1860</a></li></ul>",
+                "name": "Tasmanian Museum and Art Gallery",
+                "address": "Dunn Place, Hobart TAS 7000"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.8336513,
+                    -42.5569203
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1087555_12993791.mp3",
+                        "text": "Hamilton Inn sofa: c. 1825"
+                    }
+                ],
+                "description": "Hamilton",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1087555_12993791.mp3\">Hamilton Inn sofa: c. 1825</a></li></ul>",
+                "name": "Hamilton",
+                "address": "Hamilton TAS 7140"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.3238148,
+                    -42.8819032
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1087547_12993671.mp3",
+                        "text": "Woureddy (Wurati), an Aboriginal chief of Van Diemen's Land: 1835"
+                    },
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1085707_12953523.mp3",
+                        "text": "Hobart General Hospital Meritorious Service Gold award: 1887"
+                    },
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1088438_13010398.mp3",
+                        "text": "Fanny Cochrane Smith recordings: 1899 and 1903"
+                    },
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1088437_13010397.mp3",
+                        "text": "William Lanne's pipe: c.1860"
+                    },
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1088436_13010396.mp3",
+                        "text": "Governor Arthur's Proclamation Board: 1829"
+                    },
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1082733_12887279.mp3",
+                        "text": "Punishment Box: c.1840s"
+                    },
+                    {
+                        "url": "https://youtu.be/4Ir70PwY1rU",
+                        "text": "Picturesque Tasmanian 1933"
+                    },
+                    {
+                        "url": "https://youtu.be/b69NkdZHM-U",
+                        "text": "Life in Hobart 1966"
+                    },
+                    {
+                        "url": "https://www.youtube.com/watch?v=gxzZ5sDdA3c&feature=youtu.be",
+                        "text": "Viewpoint on Hobart (1975)"
+                    }
+                ],
+                "description": "Hobart",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1087547_12993671.mp3\">Woureddy (Wurati), an Aboriginal chief of Van Diemen's Land: 1835</a></li><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1085707_12953523.mp3\">Hobart General Hospital Meritorious Service Gold award: 1887</a></li><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1088438_13010398.mp3\">Fanny Cochrane Smith recordings: 1899 and 1903</a></li><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1088437_13010397.mp3\">William Lanne's pipe: c.1860</a></li><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1088436_13010396.mp3\">Governor Arthur's Proclamation Board: 1829</a></li><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1082733_12887279.mp3\">Punishment Box: c.1840s</a></li><li><a href=\"https://youtu.be/4Ir70PwY1rU\">Picturesque Tasmanian 1933</a></li><li><a href=\"https://youtu.be/b69NkdZHM-U\">Life in Hobart 1966</a></li><li><a href=\"https://www.youtube.com/watch?v=gxzZ5sDdA3c&feature=youtu.be\">Viewpoint on Hobart (1975)</a></li></ul>",
+                "name": "Hobart",
+                "address": "Hobart TAS 7000"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.2538241,
+                    -42.79149899999999
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1082690_12886584.mp3",
+                        "text": "Willard Pan: c.1960"
+                    }
+                ],
+                "description": "Claremont",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1082690_12886584.mp3\">Willard Pan: c.1960</a></li></ul>",
+                "name": "Claremont",
+                "address": "Claremont TAS 7011"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.2444054,
+                    -43.1065657
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1088440_13010431.mp3",
+                        "text": "Pilunimina's (Flora's) shell necklace: c. 1854"
+                    }
+                ],
+                "description": "Oyster Cove",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1088440_13010431.mp3\">Pilunimina's (Flora's) shell necklace: c. 1854</a></li></ul>",
+                "name": "Oyster Cove",
+                "address": "Oyster Cove TAS 7150"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.3296589,
+                    -42.872692
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "https://youtu.be/IVcwKj_a-IY",
+                        "text": "1911 Tasmanian State Premiership football match"
+                    }
+                ],
+                "description": "TCA Ground",
+                "audiofile_list_html": "<ul><li><a href=\"https://youtu.be/IVcwKj_a-IY\">1911 Tasmanian State Premiership football match</a></li></ul>",
+                "name": "TCA Ground",
+                "address": "Davies Ave, Queens Domain TAS 7000"
             }
         }
     ]
