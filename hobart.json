@@ -1,10 +1,40 @@
 {
     "places": [
         {
-	    "name": "The Commissariat Provision",
-            "address": "40 Macquarie St, Hobart TAS 7000",
-            "description": "The Commissariat Provision (Issuing Store) built between 1808 and 1810, is the oldest building in the museum's precinct and the earliest surviving public building in Tasmania.",
-            "audiofiles": [ { "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1087407_12990943.mp3", "text": "Shaping Tasmania (ABC)"}]
+	       "name": "The Commissariat Provision",
+           "address": "40 Macquarie St, Hobart TAS 7000",
+           "description": "The Commissariat Provision (Issuing Store) built between 1808 and 1810, is the oldest building in the museum's precinct and the earliest surviving public building in Tasmania.",
+           "audiofiles": [ { "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1087407_12990943.mp3", "text": "Shaping Tasmania (ABC)"}]
+        },
+        {
+            "name": "Bushy Park Hops",
+            "address": "471 Gordon River Road, Bushy Park, TAS",
+            "description": "One new Tasmanian resident, Kim Dodson, has been so taken by the history of hops in the Upper Derwent Valley that she's started leading tours for visitors.",
+            "audiofiles": [{"url": "https://soundcloud.com/936-abc-hobart/come-on-a-hops-history-tour-of-tasmania", "text": "Come on a hops history tour of Tasmania" }]
+        },
+        {
+            "name": "Queens Domain",
+            "address": "Queens Domain TAS 7000",
+            "description": "Sally Rackham volunteers at the Tasmanian Museum and Gallery helping with the museum's photograph collection. She decided to put together a podtour, a downloadable series of audio and photographs telling a bit of the history of Hobart's Queen's Domain.",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201104/r755675_6306101.mp3", "text": "Hobart's Queen's Domain podwalk explained"},
+            {"url": "http://www.tmag.tas.gov.au/__data/assets/pdf_file/0009/66843/Domain_PodWalk.pdf", "text": "Podwalk map and brochure"},
+            {"url": "http://www.youtube.com/playlist?list=PL32335B96F506F885", "text": "Podwalk on YouTube"},
+            {"text": "01 Introduction","url": "http://www.tmag.tas.gov.au/__data/assets/file/0008/66860/01_Introduction.mp3"},
+            {"text": "02 Early settlement and museum precinct","url": "http://www.tmag.tas.gov.au/__data/assets/file/0009/66861/02_Early_settlement_and_museum_precinct.mp3"},
+            {"text": "03 Market Place","url": "http://www.tmag.tas.gov.au/__data/assets/file/0010/66862/03_Market_Place.mp3"},
+            {"text": "04 Wapping","url": "http://www.tmag.tas.gov.au/__data/assets/file/0011/66863/04_Wapping.mp3"},
+            {"text": "05 Hospital","url": "http://www.tmag.tas.gov.au/__data/assets/file/0003/66864/05_Hospital.mp3"},
+            {"text": "06 Theatre Royal","url": "http://www.tmag.tas.gov.au/__data/assets/file/0011/37199/06_Theatre_Royal.mp3"},
+            {"text": "07 Railway Station","url": "http://www.tmag.tas.gov.au/__data/assets/file/0005/66866/07_Railway_Station.mp3"},
+            {"text": "08 War and memorials","url": "http://www.tmag.tas.gov.au/__data/assets/file/0006/66867/08_War_and_memorials.mp3"},
+            {"text": "09 Slipyard","url": "http://www.tmag.tas.gov.au/__data/assets/file/0007/66868/09_Slipyard.mp3"},
+            {"text": "10 Queens Domain","url": "http://www.tmag.tas.gov.au/__data/assets/file/0008/66869/10_Queens_Domain.mp3"},
+            {"text": "11 International Exhibition","url": "http://www.tmag.tas.gov.au/__data/assets/file/0009/66870/11_International_Exhibition.mp3"},
+            {"text": "12 Queens Battery","url": "http://www.tmag.tas.gov.au/__data/assets/file/0010/66871/12_Queens_Battery.mp3"},
+            {"text": "13 Royal Engineers Building","url": "http://www.tmag.tas.gov.au/__data/assets/file/0011/66872/13_Royal_Engineers_Building.mp3"},
+            {"text": "14 Wool Store","url": "http://www.tmag.tas.gov.au/__data/assets/file/0003/66873/14_Wool_Store.mp3"},
+            {"text": "15 Gas Works","url": "http://www.tmag.tas.gov.au/__data/assets/file/0004/66874/15_Gas_Works.mp3"},
+            {"text": "16 The end piece","url": "http://www.tmag.tas.gov.au/__data/assets/file/0005/66875/16_The_end_piece.mp3"}]
         }
     ]
 
