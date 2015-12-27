@@ -1,0 +1,27 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.332296,
+                    -42.881935
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201303/r1087407_12990943.mp3",
+                        "text": "Shaping Tasmania (ABC)"
+                    }
+                ],
+                "description": "The Commissariat Provision (Issuing Store) built between 1808 and 1810, is the oldest building in the museum's precinct and the earliest surviving public building in Tasmania.",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201303/r1087407_12990943.mp3\">Shaping Tasmania (ABC)</a></li></ul>",
+                "name": "The Commissariat Provision",
+                "address": "40 Macquarie St, Hobart TAS 7000"
+            }
+        }
+    ]
+}
