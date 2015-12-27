@@ -183,6 +183,13 @@
             "address": "Anglesea Barracks, Davey St, Hobart TAS 7000",
             "description": "Anglesea Barracks, Davey St, Hobart TAS 7000",
             "audiofiles": [{"url": "https://www.youtube.com/watch?v=jy_mpWchDDQ", "text": "Anglesea Barracks 200 Years"}]
+        },
+        {
+            "name": "Sullivans Cove",
+            "address": "Sullivans Cove Hobart TAS",
+            "description": "Sullivans Cove",
+            "audiofiles": [{"url": "http://www.heritage.tas.gov.au/media/podwalks/Hobart's%20Heritage%20Heart%20-%20Sullivans%20Cove%20Podwalk.mp3", "text": "Sullivan's Cove podwalk"},
+            {"url": "http://www.heritage.tas.gov.au/media/pdf/Sullivans%20Cove%20podwalk%20map.pdf", "text": "Podwalk map (PDF)"}]
         }
     ]
 
