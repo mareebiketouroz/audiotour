@@ -52,7 +52,8 @@ features = []
 
 for place in data['places']:
 	## get lat lon from address
-	geocode_result = gmaps.geocode("40 Macquarie St, Hobart TAS 7000")
+	address = place['address']
+	geocode_result = gmaps.geocode(address)
 	lat = geocode_result[0]['geometry']['location']['lat']
 	lon = geocode_result[0]['geometry']['location']['lng']
 	## create ul html of audiofiles
