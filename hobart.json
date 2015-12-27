@@ -35,6 +35,67 @@
             {"text": "14 Wool Store","url": "http://www.tmag.tas.gov.au/__data/assets/file/0003/66873/14_Wool_Store.mp3"},
             {"text": "15 Gas Works","url": "http://www.tmag.tas.gov.au/__data/assets/file/0004/66874/15_Gas_Works.mp3"},
             {"text": "16 The end piece","url": "http://www.tmag.tas.gov.au/__data/assets/file/0005/66875/16_The_end_piece.mp3"}]
+        },
+        {
+            "name": "Bruny Island",
+            "address": "Bruny Island, TAS",
+            "description": "A creation story from the Nuenonne people, Bruny Island as told by Woureddy. Narrator Jim Everett.",
+            "audiofiles": [{"url": "http://www.tmag.tas.gov.au/__data/assets/file/0006/73698/firstblackman.mp3", "text": "A creation story from the Nuenonne people"}]
+        },
+        {
+            "name": "Cornelian Bay Cemetery",
+            "address": "The Cottage Queens Walk, New Town TAS 7008",
+            "description": "Cornelian Bay Cemetery",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/brisbane/conversations/201509/r1474578_21588700.mp3", "text": "Tasmania's longest serving hangman, buried in a paupers grave"}]
+        },
+        {
+            "name": "Hobart Town Hall",
+            "address": "57-63 Macquarie Street, Hobart, TAS 7000",
+            "description": "Hobart Town Hall",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201312/r1213479_15830228.mp3", "text": "Hobart's Town Hall gaol cells"}]
+        },
+        {
+            "name": "Slopen Main",
+            "address": "Slopen Main, Tasmania",
+            "description": "Slopen Main",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201309/r1167702_14796619.mp3", "text": "The history of Slopen Farm"}]
+        },
+        {
+            "name": "Swansea TAS",
+            "address": "Swansea, TAS",
+            "description": "Swansea, TAS",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/northtas/201311/r1209285_15733289.mp3", "text": "Colonial Quaker records provide a new insight to Tasmania's Aboriginal people"}]
+        },
+        {
+            "name": "Richmond, TAS",
+            "address": "Richmond, TAS",
+            "description": "Richmond, TAS",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201311/r1205382_15644263.mp3", "text": "The history of Richmond's Oak Lodge"}]
+        },
+        {
+            "name": "New Town, TAS",
+            "address": "New Town, TAS 7008",
+            "description": "New Town, TAS",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201311/r1197092_15457091.mp3", "text": "Come 'behind the clock' to the orphanage in New Town"}]
+        },
+        {
+            "name": "Tasmanian Archive and Heritage Office",
+            "address": "91 Murray Street Hobart TAS 7000",
+            "description": "Tasmanian Archive and Heritage Office",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201309/r1171915_14894953.mp3", "text":"Hobart's history captured in glass"},
+            {"url": "https://www.flickr.com/photos/tasmanianarchiveandheritageoffice/sets/72157635375823040/with/9667201843/", "text": "Photos on flickr"}]
+        },
+        {
+            "name": "New Norfolk",
+            "address": "New Norfolk TAS",
+            "description": "New Norfolk",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201404/r1259926_16866215.mp3", "text": "Lovingly restoring a New Norfolk cottage into a home"}]
+        },
+        {
+            "name": "121 Harrington Street, Hobart",
+            "address": "121 Harrington Street, Hobart TAS 7000",
+            "description": "121 Harrington Street",
+            "audiofiles": [{"url": "http://mpegmedia.abc.net.au/local/hobart/201308/r1158685_14591475.mp3", "text": "Damaged historic Harrington St property reveals its secrets"}]
         }
     ]
 

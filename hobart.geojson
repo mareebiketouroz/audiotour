@@ -138,6 +138,230 @@
                 "name": "Queens Domain",
                 "address": "Queens Domain TAS 7000"
             }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.2679116,
+                    -43.3937074
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://www.tmag.tas.gov.au/__data/assets/file/0006/73698/firstblackman.mp3",
+                        "text": "A creation story from the Nuenonne people"
+                    }
+                ],
+                "description": "A creation story from the Nuenonne people, Bruny Island as told by Woureddy. Narrator Jim Everett.",
+                "audiofile_list_html": "<ul><li><a href=\"http://www.tmag.tas.gov.au/__data/assets/file/0006/73698/firstblackman.mp3\">A creation story from the Nuenonne people</a></li></ul>",
+                "name": "Bruny Island",
+                "address": "Bruny Island, TAS"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.3174596,
+                    -42.8521672
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/brisbane/conversations/201509/r1474578_21588700.mp3",
+                        "text": "Tasmania's longest serving hangman, buried in a paupers grave"
+                    }
+                ],
+                "description": "Cornelian Bay Cemetery",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/brisbane/conversations/201509/r1474578_21588700.mp3\">Tasmania's longest serving hangman, buried in a paupers grave</a></li></ul>",
+                "name": "Cornelian Bay Cemetery",
+                "address": "The Cottage Queens Walk, New Town TAS 7008"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.331806,
+                    -42.880739
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201312/r1213479_15830228.mp3",
+                        "text": "Hobart's Town Hall gaol cells"
+                    }
+                ],
+                "description": "Hobart Town Hall",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201312/r1213479_15830228.mp3\">Hobart's Town Hall gaol cells</a></li></ul>",
+                "name": "Hobart Town Hall",
+                "address": "57-63 Macquarie Street, Hobart, TAS 7000"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.68,
+                    -42.98
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201309/r1167702_14796619.mp3",
+                        "text": "The history of Slopen Farm"
+                    }
+                ],
+                "description": "Slopen Main",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201309/r1167702_14796619.mp3\">The history of Slopen Farm</a></li></ul>",
+                "name": "Slopen Main",
+                "address": "Slopen Main, Tasmania"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.0761276,
+                    -42.1239836
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/northtas/201311/r1209285_15733289.mp3",
+                        "text": "Colonial Quaker records provide a new insight to Tasmania's Aboriginal people"
+                    }
+                ],
+                "description": "Swansea, TAS",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/northtas/201311/r1209285_15733289.mp3\">Colonial Quaker records provide a new insight to Tasmania's Aboriginal people</a></li></ul>",
+                "name": "Swansea TAS",
+                "address": "Swansea, TAS"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.4370488,
+                    -42.7358635
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201311/r1205382_15644263.mp3",
+                        "text": "The history of Richmond's Oak Lodge"
+                    }
+                ],
+                "description": "Richmond, TAS",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201311/r1205382_15644263.mp3\">The history of Richmond's Oak Lodge</a></li></ul>",
+                "name": "Richmond, TAS",
+                "address": "Richmond, TAS"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.3097802,
+                    -42.8615026
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201311/r1197092_15457091.mp3",
+                        "text": "Come 'behind the clock' to the orphanage in New Town"
+                    }
+                ],
+                "description": "New Town, TAS",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201311/r1197092_15457091.mp3\">Come 'behind the clock' to the orphanage in New Town</a></li></ul>",
+                "name": "New Town, TAS",
+                "address": "New Town, TAS 7008"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.324984,
+                    -42.881683
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201309/r1171915_14894953.mp3",
+                        "text": "Hobart's history captured in glass"
+                    },
+                    {
+                        "url": "https://www.flickr.com/photos/tasmanianarchiveandheritageoffice/sets/72157635375823040/with/9667201843/",
+                        "text": "Photos on flickr"
+                    }
+                ],
+                "description": "Tasmanian Archive and Heritage Office",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201309/r1171915_14894953.mp3\">Hobart's history captured in glass</a></li><li><a href=\"https://www.flickr.com/photos/tasmanianarchiveandheritageoffice/sets/72157635375823040/with/9667201843/\">Photos on flickr</a></li></ul>",
+                "name": "Tasmanian Archive and Heritage Office",
+                "address": "91 Murray Street Hobart TAS 7000"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.0636496,
+                    -42.7806827
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201404/r1259926_16866215.mp3",
+                        "text": "Lovingly restoring a New Norfolk cottage into a home"
+                    }
+                ],
+                "description": "New Norfolk",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201404/r1259926_16866215.mp3\">Lovingly restoring a New Norfolk cottage into a home</a></li></ul>",
+                "name": "New Norfolk",
+                "address": "New Norfolk TAS"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.323263,
+                    -42.883012
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "audiofiles": [
+                    {
+                        "url": "http://mpegmedia.abc.net.au/local/hobart/201308/r1158685_14591475.mp3",
+                        "text": "Damaged historic Harrington St property reveals its secrets"
+                    }
+                ],
+                "description": "121 Harrington Street",
+                "audiofile_list_html": "<ul><li><a href=\"http://mpegmedia.abc.net.au/local/hobart/201308/r1158685_14591475.mp3\">Damaged historic Harrington St property reveals its secrets</a></li></ul>",
+                "name": "121 Harrington Street, Hobart",
+                "address": "121 Harrington Street, Hobart TAS 7000"
+            }
         }
     ]
 }
